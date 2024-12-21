@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @dipanshusharma06
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning MERN stack development
-- 💞️ I’m looking to collaborate with projects working on react, mongodb , express
+- 🌱 I’m currently taking deeper dive in Java, spring boot, spring security, microservices, react
+- 💞️ I’m looking to collaborate with projects working on react, Java , Spring boot
 - 📫 Reach me @dipanshu.sharma0610@gmail.com 
 
 <!---
